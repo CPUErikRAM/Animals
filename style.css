@@ -1,0 +1,226 @@
+.link{
+background-image: none;
+}
+
+#head11{
+    color: #ffffff;
+    padding-left: 390px;
+
+}
+
+div{
+    color: black;
+    background-color: white;
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+
+#DIV2{
+color: black;
+background-color: white;
+border: 10px solid black;
+margin-top: 10px;
+padding-left: 80px;
+padding-top: 50px;
+opacity: 0.9;
+}
+
+.Animal{
+color: fuchsia;
+}
+
+.People{
+color: black;
+}
+
+.Shark{
+    color: blue;
+}
+
+.Shark:hover{
+    border: 10px solid blue
+}
+
+.Tiger{
+    color: orange;
+}
+
+.Tiger:hover{
+    border: 10px solid orange
+}
+
+.Lion{
+    color: rgb(236, 214, 17);
+}
+
+.Lion:hover{
+    border: 10px solid rgb(236, 214, 17);
+}
+
+#SHARK{
+    background-color: aqua;
+}
+
+#TIGER{
+    background-color: black;
+}
+
+#LION{
+    background-color: gray;
+}
+
+strong{
+font-size: 25px;
+color: black;
+}
+
+a{
+    color: red;
+}
+
+h2{
+    font-size: 30px;
+}
+
+#header{
+    background: url(img/шапка.png) no-repeat;
+}
+
+body{
+    background-image: url(../Animals/img/fon.png);
+    font-family: 'Ubuntu', sans-serif;
+}
+ 
+ #people2{
+    color: whitesmoke;
+}
+
+ img {
+    padding-left: 100px;
+}
+
+footer{
+    background-color: gray;
+    height: 200px;
+}
+
+#img2{
+background-color: gray;
+padding-left: 925px;
+    padding-top: 100px;
+}
+
+#st1{
+   color: black;
+   box-shadow: none;
+   padding-left: 200px;
+}
+
+#a2{
+padding-left: 125px;
+}
+
+#a3{
+    padding-left: 50px;
+
+}
+#a234{
+    box-shadow: none;
+    padding-left: 160px;
+}
+
+.site-footer{
+    padding-top: 15px;
+    padding-bottom: 80px;
+
+    color: #ffffff;
+
+    background-color: #131313;
+}
+.footer-columns-container{
+    display: flex;
+}
+
+.footer-columns-container .left-column{
+    display: flex;
+    flex-direction: column;
+    width: 180px;
+    margin-right: 100px;
+}
+
+.footer-columns-container .right-column{
+    width: 720px;
+    padding-top: 35px;
+}
+
+.logo-container{
+    display: flex;
+    align-items: center;
+    padding: 0;
+}
+
+.logo-container.logo{
+    margin-left: 0;
+    margin-right: 20px;
+}
+
+.logo-container p {
+    font-size: 14px;
+}
+
+.copyrights{
+    margin-top: auto;
+
+    color: #555555;
+}
+
+.footer-menu{
+    display: flex;
+
+    margin: 0;
+    padding-left: 150px;
+
+    list-style: none;
+}
+
+.footer-menu>li{
+    width: 180px;
+    margin-right: 225px;
+}
+
+.footer-subemenu-title{
+    display: block;
+    margin-bottom: 50px;
+    padding-bottom: 20px;
+
+    font-size: 14px;
+    color: black;
+    text-transform: uppercase;
+    text-decoration: none;
+
+    border-bottom: 1px solid #555555;
+}
+
+.footer-subemenu{
+    margin: 0;
+    padding: 0;
+
+    list-style: none;
+}
+
+.footer-subemenu>li{
+    margin-bottom: 20px;
+}
+
+.footer-subemenu a{
+    text-decoration: none;
+    color: #5d5d5d;
+}
+
+.footer-nav a:hover{
+    color: white;
+}
+
+.footer-nav a:active{
+    color: #ccc;
+}
